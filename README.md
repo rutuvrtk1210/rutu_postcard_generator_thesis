@@ -1,0 +1,2 @@
+# rutu_postcard_generator_thesis
+Postcard generator
